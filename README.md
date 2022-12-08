@@ -1,6 +1,6 @@
 👋 Hi, my name is QAIDJOHAR JUKKER
 👀 I’m interested in full stack development, AI, ML and many more coming soon.
-🌱 I’m currently learning HTML,C,C#,CSS,C++,Python,Java,JavaScript, etc.
+🌱 I’m currently learning HTML, CSS, JavaScript, Python, C, C++, Java, etc.
 💞️ I’m currently occupied in CSE Btech course at Techno India NJR Institute of Technology, Udaipur 
 📫 Feel free to reach me through my E-mail, twitter or linkedin profile.
 

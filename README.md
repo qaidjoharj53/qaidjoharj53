@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Qaidjohar Jukker</h1>
 <h3 align="center">A passionate to be full-stack developer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif")
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaidjoharj53&label=Profile%20views&color=0e75b6&style=flat" alt="qaidjoharj53" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qaidjoharj53" alt="qaidjoharj53" /></a> </p>

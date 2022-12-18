@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python basic projects**
 
-- 📫 How to reach me **qaidjoharytqt@gmail.com**
+- 📫 Reach me at **qaidjoharytqt@gmail.com**
 
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">

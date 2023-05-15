@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **building my experience in the world of coding...**
 
-- 🌱 I’m currently learning **C, Python Libraries, Java, C++**
+- 🌱 I’m currently learning **C Advanced, Python Libraries, Java, C++, DSA**
 
 - 🤝 I’m looking for help with **AI & ML**
 

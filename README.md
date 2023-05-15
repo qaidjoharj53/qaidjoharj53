@@ -1,7 +1,7 @@
 ![MasterHead](https://d33wubrfki0l68.cloudfront.net/805f2e4bbea1d1a7d2de116e7cc514ab474a7180/0cff2/static/9cf45d5890fbf49c897810694d350ba0/developer-experience-what-is-dx-and-why-you-should-care.jpg)
 
 <h1 align="center">Hi 👋, I'm Qaidjohar Jukker</h1>
-<h3 align="center">A passionate to be full-stack developer from India</h3>
+<h3 align="center">A passionate learner from India</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://st2.depositphotos.com/1802620/7621/v/950/depositphotos_76219969-stock-illustration-online-shopping-flat-concept.jpg">
 

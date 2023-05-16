@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaidjoharj53&label=Profile%20views&color=0e75b6&style=flat" alt="qaidjoharj53" /> </p>
 
-- 🔭 I’m currently working on **building my experience in the world of coding...**
+- 🔭 I’m currently working on **building my experience in the world of Programming...**
 
 - 🌱 I’m currently learning **C Advanced, Python Libraries, Java, C++, DSA**
 
-- 🤝 I’m looking for help with **AI & ML**
+- 🤝 I’m looking for help with **AI ML + Robotics**
 
-- 💬 Ask me about **Python basic projects**
+- 💬 Ask me about **SQL, Python & C basic projects**
 
 - 📫 Reach me at **qaidjoharytqt@gmail.com**
 

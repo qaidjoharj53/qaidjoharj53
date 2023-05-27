@@ -1,11 +1,12 @@
-![MasterHead](https://d33wubrfki0l68.cloudfront.net/805f2e4bbea1d1a7d2de116e7cc514ab474a7180/0cff2/static/9cf45d5890fbf49c897810694d350ba0/developer-experience-what-is-dx-and-why-you-should-care.jpg)
+![MasterHead](https://futureofwork.georgetown.edu/wp-content/uploads/sites/335/2021/10/Artificial-Intellegence-e1634237254116-1024x371.jpeg)
 
 <h1 align="center">Hi 👋, I'm Qaidjohar Jukker</h1>
 <h3 align="center">A passionate learner from India</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://st2.depositphotos.com/1802620/7621/v/950/depositphotos_76219969-stock-illustration-online-shopping-flat-concept.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaidjoharj53&label=Profile%20views&color=0e75b6&style=flat" alt="qaidjoharj53" /> </p>
+
+<img align="right" alt="Coding" height="440" width="450" src="https://previews.123rf.com/images/natbasil/natbasil1707/natbasil170700022/83130433-hacker-on-binary-code-background-vector-illustration.jpg">
+
 
 - 🔭 I’m currently working on **building my experience in the world of Programming...**
 

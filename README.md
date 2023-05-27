@@ -5,7 +5,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaidjoharj53&label=Profile%20views&color=0e75b6&style=flat" alt="qaidjoharj53" /> </p>
 
-<img align="right" alt="Coding" height="440" width="450" src="https://previews.123rf.com/images/natbasil/natbasil1707/natbasil170700022/83130433-hacker-on-binary-code-background-vector-illustration.jpg">
+<img align="right" alt="Coding" height="420" width="400" src="https://previews.123rf.com/images/natbasil/natbasil1707/natbasil170700022/83130433-hacker-on-binary-code-background-vector-illustration.jpg">
 
 
 - 🔭 I’m currently working on **building my experience in the world of Programming...**

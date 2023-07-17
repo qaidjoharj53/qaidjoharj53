@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **AI ML + Robotics**
 
-- 💬 Ask me about **SQL, Python & C basic projects**
+- 💬 Ask me about **SQL, Python & C**
 
 - 📫 Reach me at **qaidjoharytqt@gmail.com**
 

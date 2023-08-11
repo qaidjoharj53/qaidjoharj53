@@ -25,7 +25,6 @@
 <a href="https://instagram.com/qaidjoharjukker53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qaidjoharjukker53" height="30" width="40" /></a>
 <a href="https://kaggle.com/qaidjoharj53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="qaidjoharj53" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/qaidjoharj53" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="qaidjoharj53" height="30" width="40" /></a>
-<a href="https://codepen.io/qaidjoharj53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="qaidjoharj53" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️Languages and Tools:</h3>

@@ -1,7 +1,7 @@
 ![MasterHead](https://futureofwork.georgetown.edu/wp-content/uploads/sites/335/2021/10/Artificial-Intellegence-e1634237254116-1024x371.jpeg)
 
 <h1 align="center">Hi 👋, I'm Qaidjohar Jukker</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h3 align="center">Aspiring Robotics and Cybersecurity</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaidjoharj53&label=Profile%20views&color=0e75b6&style=flat" alt="qaidjoharj53" /> </p>
 

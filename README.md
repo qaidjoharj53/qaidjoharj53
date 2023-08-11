@@ -8,13 +8,13 @@
 <img align="right" alt="Coding" height="400" width="400" src="https://previews.123rf.com/images/natbasil/natbasil1707/natbasil170700022/83130433-hacker-on-binary-code-background-vector-illustration.jpg">
 
 
-- 🔭 I’m currently working on **building my experience in the world of Programming...**
+- 🔭 I’m currently working on **Library Management WebApp**
 
 - 🌱 I’m currently learning **C Advanced, Python Libraries, Java, C++, DSA**
 
-- 🤝 I’m looking for help with **AI ML + Robotics**
+- 🤝 I’m looking for help with **AI & ML**
 
-- 💬 Ask me about **SQL, Python & C**
+- 💬 Ask me about **SQL, Python, C, Cybersecurity & Robotics**
 
 - 📫 Reach me at **qaidjoharytqt@gmail.com**
 

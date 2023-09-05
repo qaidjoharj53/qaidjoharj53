@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **Library Management WebApp**
 
-- 🌱 I’m currently learning **C Advanced, Python Libraries, Java, C++, DSA**
+- 🌱 I’m currently learning **Python Libraries, Java, C++, DSA**
 
 - 🤝 I’m looking for help with **AI & ML**
 
-- 💬 Ask me about **SQL, Python, C, Cybersecurity & Robotics**
+- 💬 Ask me about **C, Python, SQL**
 
-- 📫 Reach me at **qaidjoharytqt@gmail.com**
+- 📫 Reach me at  **[E-mail](mailto: "qaidjoharytqt@gmail.com")**, **[LinkedIn](https://www.linkedin.com/in/qaidjoharj53/)** or **[Instagram](https://www.instagram.com/qaidjoharjukker53)**
 
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,4 @@
-![MasterHead](https://futureofwork.georgetown.edu/wp-content/uploads/sites/335/2021/10/Artificial-Intellegence-e1634237254116-1024x371.jpeg)
-
+[![An image of @qaidjoharj53's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qaidjoharj53)](https://holopin.io/@qaidjoharj53)
 <h1 align="center">Hi 👋, I'm Qaidjohar Jukker</h1>
 <h3 align="center">Aspiring AI and Cybersecurity</h3>
 <br>

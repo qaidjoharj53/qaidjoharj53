@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently doing **Open Source Contributions**
 
-- 🌱 I’m currently learning **Py Libraries, Java, C++, OOPS, DSA**
+- 🌱 I’m currently learning **Py Libraries, Java, STLs, DSA**
 
 - 🤝 I’m looking for help with **AI & ML, Cybersecurity**
 

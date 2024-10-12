@@ -21,7 +21,7 @@
 ## 🔗 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/qaidjoharj53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qaidjoharj53" height="30" width="40" /></a>
-<a href="https://dev.to/qaidjoharj53" target="blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="qaidjoharj53" height="30" width="40" /></a>
+<a href="https://dev.to/qaidjoharj53" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="qaidjoharj53" height="30" width="40" /></a>
 <a href="https://kaggle.com/qaidjoharj53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="qaidjoharj53" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/qaidjoharj53" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="qaidjoharj53" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/qaidjoharj53" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/geeks-for-geeks.svg" alt="qaidjoharj53" height="30" width="40" /></a>

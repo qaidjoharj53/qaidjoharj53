@@ -1,6 +1,6 @@
 [![An image of @qaidjoharj53's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qaidjoharj53)](https://holopin.io/@qaidjoharj53)
 <h1 align="center">Hi 👋, I'm Qaidjohar Jukker</h1>
-<h3 align="center">Aspiring AI and Cybersecurity</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 <br>
 <img align="right" alt="cybersecurity" height="350" width="350" src="./profile-3d-contrib/sde.png">
 
@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently doing **Open Source Contributions**
 
-- 🌱 I’m currently learning **Py Libraries, Java, STLs, DSA**
+- 🌱 I’m currently learning **Py Libraries, STLs, DSA**
 
 - 🤝 I’m looking for help with **AI/ML, Cybersecurity**
 
-- 💬 Ask me about **Development and Problem Solvng**
+- 💬 Ask me about **Software Development and Problem Solvng**
 
-- 📫 Reach me at  **[E-mail](mailto: "qaidjoharytqt@gmail.com")**, **[LinkedIn](https://www.linkedin.com/in/qaidjoharj53/)** or **[Instagram](https://www.instagram.com/qaidjoharjukker53)**
+- 📫 Reach me at  **https://www.qaidjoharjukker.com**
 
 <br><br>
 

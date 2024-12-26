@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Qaidjohar Jukker</h1>
 <h3 align="center">Aspiring AI and Cybersecurity</h3>
 <br>
-<img align="right" alt="cybersecurity" height="300" width="350" src="https://www.senetas.com/wp-content/uploads/Small-Business-Cybersecurity.jpg">
+<img align="right" alt="cybersecurity" height="350" width="350" src="./profile-3d-contrib/sde.png">
 
 # 💫 About Me:
 

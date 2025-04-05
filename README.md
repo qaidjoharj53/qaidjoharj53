@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Software Development and Problem Solvng**
 
-- 📫 Reach me at  **https://www.qaidjoharjukker.com**
+- 📫 Reach me at  **https://www.qaidjoharj.me**
 
 <br><br>
 

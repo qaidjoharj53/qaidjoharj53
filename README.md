@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently doing **Open Source Contributions**
+- 🔭 I’m currently doing **Open-Source Contributions and Freelancing**
 
 - 🌱 I’m currently learning **Py Libraries, STLs, DSA**
 

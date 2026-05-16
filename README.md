@@ -1,20 +1,20 @@
 [![An image of @qaidjoharj53's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qaidjoharj53)](https://holopin.io/@qaidjoharj53)
 <h1 align="center">Hi 👋, I'm Qaidjohar Jukker</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <br>
 <img align="right" alt="cybersecurity" height="350" width="350" src="./profile-3d-contrib/sde.png">
 
 # 💫 About Me:
 
-- 🔭 I’m currently doing **Open-Source Contributions and Freelancing**
+- 🔭 I’m currently building **Systems that Creates Impact and Solves Problems**
 
-- 🌱 I’m currently learning **Py Libraries, STLs, DSA**
+- 🌱 I’m currently learning **STLs, DSA, System Design**
 
 - 🤝 I’m looking for help with **AI/ML, Cybersecurity**
 
 - 💬 Ask me about **Software Development and Problem Solvng**
 
-- 📫 Reach me at  **https://qaidjoharj.me**
+- 📫 Reach me at  **https://qaidjohar.tech**
 
 <br><br>
 
